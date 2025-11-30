@@ -1,6 +1,6 @@
 {
   "TRAIN_NO": "12393",
-  "TRAIN_COACH": "3A",
+  "TRAIN_COACH": "SL",
   "TRAVEL_DATE": "01/12/2025",
   "SOURCE_STATION": "PNBE",
   "BOARDING_STATION": null,
@@ -11,7 +11,7 @@
   "PASSENGER_DETAILS": [
     {
       "NAME": "Aayush kumar",
-      "AGE": 26,
+      "AGE": 20,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
